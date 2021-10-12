@@ -131,6 +131,7 @@
 .section.footer {
   padding-top: 46px;
   padding-bottom: 45px;
+  background-color: #17120e;
 }
 
 .section.ab-one {
@@ -152,6 +153,7 @@
 .section.ab-two {
   padding-top: 125px;
   padding-bottom: 125px;
+  background-color: hsla(0, 0%, 100%, 0.02);
   background-image: url('../images/background-lines.svg');
   background-position: 50% 50%;
   background-size: cover;
