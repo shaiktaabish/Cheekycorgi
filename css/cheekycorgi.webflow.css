@@ -545,6 +545,10 @@
   max-width: 130px;
 }
 
+.max-171._174 {
+  max-width: 174px;
+}
+
 ._16px-bold {
   display: inline-block;
   margin-bottom: 23px;
@@ -1588,6 +1592,18 @@
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
+  }
+
+  .max-171 {
+    max-width: 170px;
+  }
+
+  .max-171._158 {
+    max-width: 170px;
+  }
+
+  .max-171._174 {
+    max-width: 170px;
   }
 
   .team-wrap {
