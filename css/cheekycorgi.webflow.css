@@ -1121,6 +1121,40 @@
   display: flex;
 }
 
+.text-and-img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 45px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.text-block-7 {
+  margin-right: 22px;
+  color: #ccc;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+.image-11 {
+  width: 100%;
+}
+
+.link-block-3 {
+  width: 100%;
+  max-width: 67px;
+}
+
 @media screen and (max-width: 991px) {
   .navbar {
     display: -webkit-box;
